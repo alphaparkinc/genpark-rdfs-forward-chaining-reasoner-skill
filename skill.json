@@ -1,0 +1,16 @@
+{
+  "name": "genpark-rdfs-forward-chaining-reasoner-skill",
+  "version": "1.0.0",
+  "description": "RDFS forward-chaining deductive inference engine computing transitive closures across subClassOf, subPropertyOf, and domain/range type rules.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "rdfs",
+    "owl",
+    "reasoning-engine",
+    "knowledge-graph",
+    "semantic-inference"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
